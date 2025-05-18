@@ -1,12 +1,9 @@
-# React + Vite
+# User Management Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Login and Registration Functionality.
+2. Add User to the Database and added to UI by API.
+3. Delete a User or Delete Account Functionality.
+4. Update user and Update profile feature.
+5. Restriction on pages without login or Register.
